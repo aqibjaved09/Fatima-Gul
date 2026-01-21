@@ -1,9 +1,9 @@
 :root {
-    --bg-color: #0a1147;
+    --bg-color: #010807;
     --text-color: #ffffff;
-    --primary-color: #e2e51a;
+    --primary-color: #3cc2a7;
     /* Electric Blue */
-    --secondary-color: #e2e51a;
+    --secondary-color: #3cc2a7;
     /* Neon Purple */
     --accent-color: #ffffff;
     --glass-bg: rgba(255, 255, 255, 0.05);
@@ -334,7 +334,7 @@ a {
 .btn-primary:hover {
     background: transparent;
     color: var(--primary-color);
-    box-shadow: 0 0 20px #e2e51a;
+    box-shadow: 0 0 20px #3cc2a7;
 }
 
 .btn-secondary {
@@ -346,7 +346,7 @@ a {
 .btn-secondary:hover {
     background: var(--secondary-color);
     color: var(--bg-color);
-    box-shadow: 0 0 20px #e2e51a;
+    box-shadow: 0 0 20px #3cc2a7;
 }
 
 /* Hero Image */
@@ -368,7 +368,7 @@ a {
     z-index: 2;
     overflow: hidden;
     border: 5px solid var(--glass-border);
-    box-shadow: 0 0 30px #e2e51a;
+    box-shadow: 0 0 30px #3cc2a7;
     animation: float 6s ease-in-out infinite;
 }
 
@@ -534,7 +534,7 @@ a {
 .skill-category:hover {
     transform: translateY(-10px);
     border-color: var(--primary-color);
-    box-shadow: 0 10px 30px #e2e51a;
+    box-shadow: 0 10px 30px #3cc2a7;
 }
 
 .skill-category h3 {
@@ -773,7 +773,7 @@ a {
 footer {
     text-align: center;
     padding: 20px;
-    background: #e2e51a;
+    background: #3cc2a7;
     color: #100303;
     font-size: 14px;
 }
